@@ -1,3 +1,7 @@
+## Parcours français
+
+Ce fork propose un parcours documentaire francophone : [voir docs/fr](./docs/fr/).
+
 # Stader Labs audit details
 - Total Prize Pool: $100,000 USDC
     - High/Medium awards: $72,625 USDC
